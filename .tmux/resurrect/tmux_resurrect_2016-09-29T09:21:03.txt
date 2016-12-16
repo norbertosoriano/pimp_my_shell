@@ -1,0 +1,7 @@
+pane	0	0	:..pimp_my_shell	1	:*	0	:/tmp/pimp_my_shell	1	zsh	:
+pane	0	1	:~/Desktop	0	:-	0	:/home/nsoriano/Desktop	1	zsh	:
+pane	0	2	:/tmp	0	:	0	:/tmp	1	zsh	:
+window	0	0	1	:*	b9bd,173x43,0,0,0
+window	0	1	0	:-	b9bf,173x43,0,0,2
+window	0	2	0	:	b9c0,173x43,0,0,3
+state	0	

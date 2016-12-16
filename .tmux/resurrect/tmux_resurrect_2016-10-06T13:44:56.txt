@@ -1,0 +1,6 @@
+pane	0	0	:vim	1	:*	0	:/home/nsoriano/dev/python	1	vim	:vim hackerrank.py
+pane	0	0	:vim	1	:*	1	:/usr/lib/python3/dist-packages/urllib3	0	zsh	:
+pane	0	1	:..s/autoscaling	0	:-	0	:/tmp/nsorian-mobl1/tmp/openstack/ww30_training	1	vim	:vim README
+window	0	0	1	:*	7dde,173x43,0,0[173x30,0,0,0,173x12,0,31,1]
+window	0	1	0	:-	b9bf,173x43,0,0,2
+state	0	

@@ -1,0 +1,4 @@
+pane	0	0	:vim	1	:*Z	0	:/home/nsoriano/Documents/Pluralsight/AWS Developer: Getting Started/3-aws-developer-getting-started-m3-exercise-files/before	1	vim	:vim index.js
+pane	0	0	:vim	1	:*Z	1	:/home/nsoriano/Documents/Pluralsight/AWS Developer: Getting Started/3-aws-developer-getting-started-m3-exercise-files/before	0	zsh	:
+window	0	0	1	:*Z	915f,173x43,0,0[173x21,0,0,0,173x21,0,22,3]
+state	0	

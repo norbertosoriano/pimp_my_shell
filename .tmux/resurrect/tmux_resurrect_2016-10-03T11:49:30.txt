@@ -1,0 +1,8 @@
+pane	0	0	:~/.vim/plugged	0	:	0	:/home/nsoriano	1	vim	:vim .vimrc
+pane	0	0	:~/.vim/plugged	0	:	1	:/home/nsoriano/.vim/plugged	0	zsh	:
+pane	0	1	:vim	0	:-	0	:/home/nsoriano	1	vim	:vim dev/cpp/tmp/hello.cpp
+pane	0	2	:vim	1	:*	0	:/home/nsoriano/tmp	1	vim	:vim pimp_my_shell.sh
+window	0	0	0	:	4b61,173x43,0,0[173x34,0,0,0,173x8,0,35,43]
+window	0	1	0	:-	5d12,173x43,0,0,51
+window	0	2	1	:*	5d16,173x43,0,0,55
+state	0	

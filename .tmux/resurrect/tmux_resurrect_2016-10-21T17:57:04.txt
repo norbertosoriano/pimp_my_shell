@@ -1,0 +1,15 @@
+pane	0	0	:vim	0	:	0	:/home/nsoriano	0	vim	:vim Documents/Pluralsight/AWS Developer: The Big Picture/README
+pane	0	0	:vim	0	:	1	:/home/nsoriano	1	vim	:vim Documents/Pluralsight/AWS Developer: Getting Started/README
+pane	0	1	:man	0	:Z	0	:/home/nsoriano	0	python3	:python3
+pane	0	1	:man	0	:Z	1	:/usr/share/man	0	man	:man rsync
+pane	0	1	:man	0	:Z	2	:/usr/share/man	1	man	:man cron
+pane	0	2	:/tmp	1	:*Z	0	:/home/nsoriano/tmp/epam/epic_games	0	vim	:vim README
+pane	0	2	:/tmp	1	:*Z	1	:/home/nsoriano/tmp/epam/epic_games	1	vim	:vim backup.sh
+pane	0	2	:/tmp	1	:*Z	2	:/home/nsoriano/tmp/epam/epic_games	0	zsh	:
+pane	0	2	:/tmp	1	:*Z	3	:/tmp	0	zsh	:
+pane	0	3	:/tmp/defaultkp.pem	0	:-	0	:/home/nsoriano/tmp/epam/epic_games	1	ssh	:ssh -i /tmp/defaultkp.pem ubuntu@8.43.87.216
+window	0	0	0	:	915e,173x43,0,0[173x21,0,0,0,173x21,0,22,1]
+window	0	1	0	:Z	7a15,173x43,0,0[173x11,0,0,9,173x20,0,12,10,173x10,0,33,12]
+window	0	2	1	:*Z	10d2,173x43,0,0[173x9,0,0,11,173x16,0,10,13,173x8,0,27,14,173x7,0,36,37]
+window	0	3	0	:-	5d13,173x43,0,0,33
+state	0	

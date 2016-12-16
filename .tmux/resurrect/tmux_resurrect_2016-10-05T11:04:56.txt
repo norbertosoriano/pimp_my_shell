@@ -1,0 +1,4 @@
+pane	0	0	:..pp/hackerrank	1	:*Z	0	:/home/nsoriano/dev/cpp/hackerrank	1	zsh	:
+pane	0	0	:..pp/hackerrank	1	:*Z	1	:/home/nsoriano/dev/cpp/hackerrank	0	zsh	:
+window	0	0	1	:*Z	e730,173x43,0,0[173x33,0,0,0,173x9,0,34,1]
+state	0	

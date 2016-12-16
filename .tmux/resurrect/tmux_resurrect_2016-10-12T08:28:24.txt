@@ -1,0 +1,5 @@
+pane	0	0	:vim	1	:*	0	:/home/nsoriano/Documents/Pluralsight	1	vim	:vim aws.txt
+pane	0	1	:vim	0	:-	0	:/tmp/nsorian-mobl1/tmp/openstack/cloud_fundamentals	1	vim	:vim README
+window	0	0	1	:*	b9bf,173x43,0,0,2
+window	0	1	0	:-	b9bd,173x43,0,0,0
+state	0	

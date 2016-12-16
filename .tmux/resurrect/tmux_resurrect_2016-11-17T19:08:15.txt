@@ -1,0 +1,4 @@
+pane	0	0	:/tmp	1	:*	0	:/home/nsoriano/tmp/hpe	0	vim	:vim workday.txt
+pane	0	0	:/tmp	1	:*	1	:/tmp	1	zsh	:
+window	0	0	1	:*	915e,173x43,0,0[173x21,0,0,0,173x21,0,22,1]
+state	0	

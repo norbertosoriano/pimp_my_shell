@@ -1,0 +1,5 @@
+pane	0	0	:~/ops/chef	1	:*	0	:/home/nsoriano/ops/chef	1	zsh	:
+pane	1	0	:python3	1	:*	0	:/home/nsoriano	1	python3	:python3
+window	0	0	1	:*	b9bd,173x43,0,0,0
+window	1	0	1	:*	ae5e,80x23,0,0,1
+state	1	

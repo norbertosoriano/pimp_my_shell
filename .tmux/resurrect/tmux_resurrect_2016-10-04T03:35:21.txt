@@ -1,0 +1,4 @@
+pane	0	0	:./a.out	1	:*	0	:/home/nsoriano/dev/cpp/hackerrank	1	vim	:vim hackerrank.cpp
+pane	0	0	:./a.out	1	:*	1	:/home/nsoriano/dev/cpp/hackerrank	0	./a.out	:./a.out
+window	0	0	1	:*	cbde,173x43,0,0[173x32,0,0,0,173x10,0,33,1]
+state	0	

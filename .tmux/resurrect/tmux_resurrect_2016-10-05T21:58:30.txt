@@ -1,0 +1,4 @@
+pane	0	0	:~/dev/python	1	:*	0	:/home/nsoriano/dev/python	1	vim	:vim hackerrank.py
+pane	0	0	:~/dev/python	1	:*	1	:/home/nsoriano/dev/python	0	zsh	:
+window	0	0	1	:*	e730,173x43,0,0[173x33,0,0,0,173x9,0,34,1]
+state	0	

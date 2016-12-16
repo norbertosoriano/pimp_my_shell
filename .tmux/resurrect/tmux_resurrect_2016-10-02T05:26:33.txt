@@ -1,0 +1,7 @@
+pane	0	0	:~	1	:*	0	:/home/nsoriano	1	vim	:vim .vimrc
+pane	0	0	:~	1	:*	1	:/home/nsoriano	0	zsh	:
+pane	0	1	:..YouCompleteMe	0	:-	0	:/home/nsoriano/.vim/plugged/YouCompleteMe	0	vim	:vim /tmp/hello.cpp
+pane	0	1	:..YouCompleteMe	0	:-	1	:/home/nsoriano/.vim/plugged/YouCompleteMe	1	zsh	:
+window	0	0	1	:*	4b5f,173x43,0,0[173x34,0,0,0,173x8,0,35,20]
+window	0	1	0	:-	97fc,173x43,0,0[173x21,0,0,18,173x21,0,22,21]
+state	0	

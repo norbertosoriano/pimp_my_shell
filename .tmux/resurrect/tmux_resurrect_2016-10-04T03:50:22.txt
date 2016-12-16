@@ -1,0 +1,4 @@
+pane	0	0	:gdb	1	:*Z	0	:/home/nsoriano/dev/cpp/hackerrank	0	vim	:vim hackerrank.cpp
+pane	0	0	:gdb	1	:*Z	1	:/home/nsoriano/dev/cpp/hackerrank	1	gdb	:gdb a.out
+window	0	0	1	:*Z	cbde,173x43,0,0[173x32,0,0,0,173x10,0,33,1]
+state	0	

@@ -34,7 +34,7 @@ echo "plugins=(git tmux history-substring-search)" >> $HOME/.zshrc
 echo "Review your .zshrc and do appropriate modifications, e.g. ZSH_THEME section, plugins section, Base16 section"
 read -n1 -r -p "Press space to continue..." key
 
-# 7. Install Powerline Fonts
+# 7. Install Powerline Fonts: https://powerline.readthedocs.io/en/latest/installation/linux.html#fonts-installation
 wget https://github.com/powerline/powerline/raw/develop/font/PowerlineSymbols.otf
 wget https://github.com/powerline/powerline/raw/develop/font/10-powerline-symbols.conf
 mkdir -p ~/.fonts/

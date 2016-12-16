@@ -1,0 +1,4 @@
+pane	0	0	:..pp/hackerrank	1	:*	0	:/home/nsoriano/dev/cpp/hackerrank	0	vim	:vim hackerrank.cpp
+pane	0	0	:..pp/hackerrank	1	:*	1	:/home/nsoriano/dev/cpp/hackerrank	1	zsh	:
+window	0	0	1	:*	cbde,173x43,0,0[173x32,0,0,0,173x10,0,33,1]
+state	0	

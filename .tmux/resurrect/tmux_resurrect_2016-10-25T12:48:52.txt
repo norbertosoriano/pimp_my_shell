@@ -1,0 +1,5 @@
+pane	0	0	:/tmp/kp-docker.pem	0	:-	0	:/home/nsoriano/tmp	1	ssh	:ssh -i /tmp/kp-docker.pem ubuntu@8.43.87.35
+pane	0	1	:python3	1	:*	0	:/home/nsoriano/tmp	1	python3	:python3
+window	0	0	0	:-	b9bd,173x43,0,0,0
+window	0	1	1	:*	ae5e,80x23,0,0,1
+state	0	

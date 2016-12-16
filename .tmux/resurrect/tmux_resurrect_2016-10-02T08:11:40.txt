@@ -1,0 +1,6 @@
+pane	0	0	:~/ycm_build	0	:-	0	:/home/nsoriano	1	vim	:vim .vimrc
+pane	0	0	:~/ycm_build	0	:-	1	:/home/nsoriano/ycm_build	0	zsh	:
+pane	0	1	:vim	1	:*	0	:/home/nsoriano/dev/cpp	1	vim	:vim tmp/hello.cpp
+window	0	0	0	:-	4b61,173x43,0,0[173x34,0,0,0,173x8,0,35,43]
+window	0	1	1	:*	5d17,173x43,0,0,18
+state	0	

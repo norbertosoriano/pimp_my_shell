@@ -1,0 +1,4 @@
+pane	0	0	:vim	1	:*	0	:/home/nsoriano	1	vim	:vim Documents/Pluralsight/AWS Developer: The Big Picture/README
+pane	0	0	:vim	1	:*	1	:/home/nsoriano	0	vim	:vim Documents/Pluralsight/AWS Developer: Getting Started/README
+window	0	0	1	:*	915e,173x43,0,0[173x21,0,0,0,173x21,0,22,1]
+state	0	
